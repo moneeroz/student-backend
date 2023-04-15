@@ -1,0 +1,35 @@
+- Database Data-base anything thet can hold data is a database
+
+- Relational Databases
+ - Table (Rows and Columns)
+ - Column. Eg: name, age, department
+ - Row. a record Eg: Jhon Wick, 45, HR
+
+- A database can have multiple tables. Eg: students table, products table, sales table, etc.
+
+- Examples of relational database: MySQL, MAriaDB, Microsoft SQL, Oracle, MS Access, etc.
+
+- Easily manage data. We can easily retrieve, sort, filter, and validate data.
+
+- SQL: Structured Query Language. It is used for maniging your database
+
+- DBMS: Database Management System. It is a user interface to manage the database
+
+- MariaDB
+ - "id" column is primary key coloumn
+  -primary key column is usted to uniquely identifying a row in your table.
+ - Table Schema
+
+ - create
+ - retrieve 
+ - update
+ - delete
+
+- * is a wildcard that refers to all columns in a database table
+
+- FK (Foreign key): is a primary key of another table
+
+- terms to define the relationship between two tables
+    belongsTo --in our example a student belongs to a department
+
+    hasMany -- the department has many students
